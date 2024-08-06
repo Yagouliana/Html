@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title> página web do Senai</title>
+	</head>
+	<body>
+		<p>Inserir imagem: </p>
+		<img src="" alt="monalisa.jpg">
+
+		<p>Inserir imagem via link: </p>
+		<img src="" alt="paisagens-coloridas.jpg">
+	</body> 
+</html>
