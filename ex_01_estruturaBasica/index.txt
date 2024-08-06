@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title> página web do Senai</title>
+	</head>
+	<body>
+		<p>"Só sei que nada sei"
+		-Sócrates</p>
+	</body> 
+</html>
